@@ -2,7 +2,7 @@
 sidebar_label: "Formulaire d'Onboarding"
 ---
 
-# Formulaire d'Onboarding (Arrivée d'un employé)
+# Formulaire d'Onboarding
 
 | Type    | Nom                  | Pourquoi ?                                             |
 | :------ | :------------------- | :----------------------------------------------------- |

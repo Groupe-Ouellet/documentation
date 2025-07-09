@@ -83,7 +83,13 @@ const config = {
             type: 'doc',
             docId: 'introduction',
             position: 'left',
-            label: 'testing EP 2',
+            label: 'Testing EP 2',
+          },
+          {
+            type: 'doc',
+            docId: 'employé/index',
+            position: 'left',
+            label: 'Je suis un employé',
           },
           {
             type: 'search',
@@ -93,63 +99,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Contact',
-            items: [
-              {
-                label: 'elliot.perreault@groupeouellet.ca',
-                href: 'mailto:elliot.perreault@groupeouellet.ca',
-              },
-            ],
-          },
-          {
-            title: 'Définitions',
-            items: [
-              {
-                label: 'Définitions',
-                to: '/docs/definitions/',
-              },
-              {
-                label: 'SharePoint',
-                to: '/docs/definitions/sharepoint',
-              },
-              {
-                label: 'Power Automate',
-                to: '/docs/definitions/powerautomate',
-              },
-            ],
-          },
-          {
-            title: 'testing EP 2',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/docs/introduction',
-              },
-              {
-                label: 'Documents',
-                to: '/docs/documents',
-              },
-              {
-                label: 'Page',
-                to: '/docs/pages/Accueil',
-              },
-              {
-                label: 'List Forms',
-                to: '/docs/list-forms/onboarding-form',
-              },
-              {
-                label: 'Flows',
-                to: '/docs/flows/onboarding',
-              },
-              {
-                label: 'Maintenance',
-                to: '/docs/maintenance',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Groupe Ouellet. Built with Docusaurus.`,
       },
       prism: {

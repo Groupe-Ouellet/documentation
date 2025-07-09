@@ -8,9 +8,9 @@ Bienvenue ! Cette section est faite pour vous, employés du Groupe Ouellet. Vous
 
 ## Que souhaitez-vous faire ?
 
-- **Préparer l'arrivée d'un nouvel employé dans l’entreprise** : [Remplir le formulaire d’Onboarding](formulaires/onboarding)
-- **Préparer le départ d'un nouvel employé** : [Remplir le formulaire d’Offboarding](formulaires/offboarding)
-- **Finaliser l'embauche d'un nouvel employé** : [Remplir le formulaire d’Embauche](formulaires/embauche)
+- **Préparer l'arrivée d'un nouvel employé dans l’entreprise** : [Remplir le formulaire d'onboarding](formulaires/onboarding)
+- **Préparer le départ d'un nouvel employé** : [Remplir le formulaire d’offboarding](formulaires/offboarding)
+- **Finaliser l'embauche d'un nouvel employé** : [Remplir le formulaire d'embauche](formulaires/embauche)
 
 ## Besoin d’aide ?
 

@@ -2,7 +2,7 @@
 sidebar_label: "Formulaire d'Offboarding"
 ---
 
-# Formulaire d'Offboarding (Départ d'un employé)
+# Formulaire d'Offboarding
 
 | Type    | Nom                  | Pourquoi ?                                                   |
 | :------ | :------------------- | :----------------------------------------------------------- |
