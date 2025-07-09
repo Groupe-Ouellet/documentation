@@ -33,7 +33,7 @@ sidebar_label: "d'offboarding"
 
   <ol>
     <li><strong>Retournez au formulaire</strong></li>
-    <li><strong>Vérifiez et corrigez toute erreur d’inattention</strong></li>
+    <li><strong>Vérifiez et corrigez toutes erreurs d’inattention</strong></li>
     <li><strong>Soumettez de nouveau</strong></li>
   </ol>
 

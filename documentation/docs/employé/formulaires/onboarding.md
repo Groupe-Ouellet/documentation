@@ -17,17 +17,17 @@ sidebar_label: "d'onboarding"
 
 ## Détail des champs à remplir
 
-| **Champ**               | **Description**                                            | **Exemple**                                                                                                                                 |
-| ----------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Nom complet**         | Nom complet de l'employé rejoignant l’organisation         | `Jean Tremblay`                                                                                                                             |
-| **Garage**              | Nom du garage engageant l'employé                          | `Laval Volkswagen`                                                                                                                          |
-| **Copier le compte de** | Le courriel d'un employé à un poste identique ou similaire | `joey.leboeuf@lavalvw.com`                                                                                                                  |
-| **Partenaire TI**       | Nom du partenaire Ti utilisé par le garage                 | `6Temti`                                                                                                                                    |
-| **Date de début**       | Date à laquelle l'employé commencera à travailler          | `21 janvier 2035`                                                                                                                           |
-| **Matériel à insaller**       | Matériel en stock et à préparer pour l'employé          | `21 janvier 2035`                                                                                                                           |
-| **Matériel à acheter**       | Matériel à acheter et à préparer pour l'employé          | `21 janvier 2035`                                                                                                                           |
-| **Logiciels à configurer**       | Logiciels que l'employé aura besoin pour accomplir son travail          | `21 janvier 2035`                                                                                                                           |
-| **Note**                | Autres choses à mentionner ?                               | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.` |
+| **Champ**                  | **Description**                                                | **Exemple**                                                                                                                                 |
+| -------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nom complet**            | Nom complet de l'employé rejoignant l’organisation             | `Jean Tremblay`                                                                                                                             |
+| **Garage**                 | Nom du garage engageant l'employé                              | `Laval Volkswagen`                                                                                                                          |
+| **Copier le compte de**    | Le courriel d'un employé à un poste identique ou similaire     | `joey.leboeuf@lavalvw.com`                                                                                                                  |
+| **Partenaire TI**          | Nom du partenaire Ti utilisé par le garage                     | `6Temti`                                                                                                                                    |
+| **Date de début**          | Date à laquelle l'employé commencera à travailler              | `21 janvier 2035`                                                                                                                           |
+| **Matériel à insaller**    | Matériel en stock et à préparer pour l'employé                 | `21 janvier 2035`                                                                                                                           |
+| **Matériel à acheter**     | Matériel à acheter et à préparer pour l'employé                | `21 janvier 2035`                                                                                                                           |
+| **Logiciels à configurer** | Logiciels que l'employé aura besoin pour accomplir son travail | `21 janvier 2035`                                                                                                                           |
+| **Note**                   | Autres choses à mentionner ?                                   | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.` |
 
 ---
 
@@ -38,7 +38,7 @@ sidebar_label: "d'onboarding"
 
   <ol>
     <li><strong>Retournez au formulaire</strong></li>
-    <li><strong>Vérifiez et corrigez toute erreur d’inattention</strong></li>
+    <li><strong>Vérifiez et corrigez toutes erreurs d’inattention</strong></li>
     <li><strong>Soumettez de nouveau</strong></li>
   </ol>
 
