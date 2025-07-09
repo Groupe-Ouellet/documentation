@@ -57,12 +57,7 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        algolia: {
-          appId: 'YOUR_APP_ID',
-          apiKey: 'YOUR_SEARCH_API_KEY',
-          indexName: 'YOUR_INDEX_NAME',
-          contextualSearch: true,
-        },
+        // Removed algolia from here
       }),
     ],
   ],
@@ -161,6 +156,15 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        appId: 'XZAUC77L7Z',
+        apiKey: 'dadaac776810b2ef3337cd64ed5b671f',
+        indexName: 'YOUR_INDEX_NAME',
+        contextualSearch: true,
+      },
+      metadata: [
+        { name: 'algolia-site-verification', content: '2002F801BA281E99' },
+      ],
     }),
 };
 
