@@ -10,7 +10,7 @@ sidebar_label: "d'embauche"
 
 Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur le lien ci-dessous pour ouvrir un courriel prérempli dans votre logiciel de messagerie :
 
-[Envoyer le formulaire par courriel](mailto:lecourrieldevotrefuturemployé@domaine.com?subject=Finalisation%20de%20votre%20embauche%20au%20sein%20de%20'Nom%20du%20garage'%20&body=Bonjour%20'Son%20nom'%2C%0Apour%20finaliser%20votre%20embauche%2C%20vous%20devez%20remplir%20ce%20%3Ca%20href%3D%22https%3A%2F%2Fgroupeautoouellet.sharepoint.com%2Fsites%2FtestingEP2%2F_layouts%2F15%2Flistforms.aspx%3Fcid%3DNzJjOGY3NjAtNDNjZi00NWY1LWFkODgtNjRkNGU1YTU1YmEz%26nav%3DYjEyNDE0ZTctZTQ1My00NGQ5LWEyZjQtZDc1ODhiOGZhNWY3%22%3Eformulaire%20d'embauche%3C%2Fa%3E.%20%0A%0ASalutation%2C%20'Votre%20nom')
+[Envoyer le formulaire par courriel](mailto:lecourrieldevotrefuturemployé@domaine.com?subject=Finalisation%20de%20votre%20embauche%20au%20sein%20de%20'Nom%20du%20garage'&body=Bonjour%20'Son%20nom'%2C%0Apour%20finaliser%20votre%20embauche%2C%20vous%20devez%20remplir%20ce%20formulaire%20d'embauche%20%3A%0Ahttps%3A%2F%2Fgroupeautoouellet.sharepoint.com%2F%3Al%3A%2Fs%2FtestingEP2%2FFIeESJlh96tHg-h7mpxPfSgBPkkbu7_cr5E_XfDNQ42ccg%3Fnav%3DY2QyNjMzZGYtOTNhZC00YjZmLTk1ZTEtY2FjYThmMmExYmRl%0A%0ASalutation%2C%20'Votre%20nom')
 
 ---
 
@@ -19,7 +19,7 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
 ## Étapes à suivre
 
 1. **Accédez au formulaire :**  
-   -> [Cliquer ici pour accéder au formulaire d'embauche](https://groupeautoouellet.sharepoint.com/sites/testingEP2/_layouts/15/listforms.aspx?cid=NzJjOGY3NjAtNDNjZi00NWY1LWFkODgtNjRkNGU1YTU1YmEz&nav=YjEyNDE0ZTctZTQ1My00NGQ5LWEyZjQtZDc1ODhiOGZhNWY3)
+   -> [Cliquer ici pour accéder au formulaire d'embauche](https://groupeautoouellet.sharepoint.com/:l:/s/testingEP2/FIeESJlh96tHg-h7mpxPfSgBPkkbu7_cr5E_XfDNQ42ccg?nav=Y2QyNjMzZGYtOTNhZC00YjZmLTk1ZTEtY2FjYThmMmExYmRl)
 
 2. **Remplissez tous les champs requis** (voir la section ci-dessous pour les détails).
 
