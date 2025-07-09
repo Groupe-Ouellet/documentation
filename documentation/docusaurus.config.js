@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://elliotperreault.github.io',
+  url: 'https://groupe-ouellet.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'elliotperreault', // Usually your GitHub org/user name.
-  projectName: 'groupeouellet', // Usually your repo name.
+  organizationName: 'groupe-ouellet', // Updated to match organization name
+  projectName: 'documentation', // Updated to match project name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/elliotperreault/groupeouellet/tree/main/documentation',
+            'https://github.com/groupe-ouellet/documentation/tree/main/documentation',
         },
         // blog: { ... } section removed
         theme: {
