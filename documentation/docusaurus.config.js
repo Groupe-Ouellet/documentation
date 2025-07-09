@@ -159,7 +159,7 @@ const config = {
       algolia: {
         appId: 'XZAUC77L7Z',
         apiKey: 'dadaac776810b2ef3337cd64ed5b671f',
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'Docusaurus',
         contextualSearch: true,
       },
       metadata: [
