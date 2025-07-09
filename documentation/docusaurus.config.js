@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Groupe Ouellet',
   tagline: 'Documentation interne et guides pratiques',
-  favicon: '/img/favicon.ico',
+  favicon: '/img/go-logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

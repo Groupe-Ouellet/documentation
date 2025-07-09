@@ -9,7 +9,7 @@ sidebar_label: "Formulaire d'Onboarding"
 | Texte   | Nom Complet          | Pour qui créer le compte.                              |
 | Texte   | Courriel             | À quel courriel créer le compte.                       |
 | Date    | Date de début        | Quand commence l'employé.                              |
-| Personne| Utilisateur template | Sur qui se baser pour les permissions.                 |
+| Texte   | Copier le compte de  | Sur qui se baser pour les permissions.                 |
 | Choix   | Compagnie            | Pour quelle compagnie travaillera l'employé ?          |
 | Choix   | Partenaire TI        | Avec quel partenaire TI la compagnie travaille ?       |
 | Texte   | Partenaire TI email  | Quel est le courriel du partenaire TI.                 |
@@ -19,3 +19,5 @@ sidebar_label: "Formulaire d'Onboarding"
 | Texte+  | Note                 | Autres choses importantes à mentionner ?               |
 
 * **Automatisation** : Envoie un courriel au Partenaire TI et au DG pour préparer ce dont le nouvel employé aura besoin. 
+
+![Exemple d'email d'onboarding](/img/email-onboarding.png) 
