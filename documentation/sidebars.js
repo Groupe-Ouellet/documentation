@@ -67,6 +67,17 @@ const sidebars = {
       label: 'Je suis un employé',
       items: [
         'employé/index',
+        'employé/commencer',
+        {
+          type: 'category',
+          label: 'Outils de base à connaître',
+          items: [
+            'employé/outil-de-base/courriels',
+            'employé/outil-de-base/sharepoint',
+            'employé/outil-de-base/teams',
+          ],
+        },
+        'employé/outil-par-metier',
         {
           type: 'category',
           label: 'Formulaires',

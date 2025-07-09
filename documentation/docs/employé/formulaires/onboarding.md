@@ -3,6 +3,7 @@ sidebar_label: "d'onboarding"
 ---
 
 # Formulaire d'onboarding
+Préparer l'arrivée d'un nouvel employé dans l’entreprise
 
 ## Étapes à suivre
 

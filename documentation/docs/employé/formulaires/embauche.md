@@ -3,8 +3,7 @@ sidebar_label: "d'embauche"
 ---
 
 # Formulaire d'embauche
-
----
+Finaliser l'embauche d'un nouvel employé
 
 ## Pour l'employeur : <br/> envoyer ce formulaire à un nouvel employé
 

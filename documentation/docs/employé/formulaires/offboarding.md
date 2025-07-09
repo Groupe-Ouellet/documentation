@@ -3,6 +3,7 @@ sidebar_label: "d'offboarding"
 ---
 
 # Formulaire d’offboarding
+Préparer le départ d'un employé
 ## Étapes à suivre
 
 1. **Accédez au formulaire :**  
