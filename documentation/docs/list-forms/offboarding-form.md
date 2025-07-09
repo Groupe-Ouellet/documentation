@@ -12,6 +12,8 @@ sidebar_label: "Formulaire d'Offboarding"
 | Date    | Date de fin          | Quand finit l'employé ?                                      |
 | Choix   | Doit être complété   | Quand le faire, dans la journée ou immédiatement ?           |
 
+> **À noter** : Il y a peu de champs, car offboarding va pomper les données du formulaire d'onboarding
+
 * **Automatisation** : Envoie un courriel au TI et au DG pour préparer le départ, et supprime les items dans les listes onboarding/offboarding. 
 
 ![Exemple d'email d'offboarding](/img/email-offboarding.png) 

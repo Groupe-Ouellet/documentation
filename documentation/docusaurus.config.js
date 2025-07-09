@@ -57,6 +57,12 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        algolia: {
+          appId: 'YOUR_APP_ID',
+          apiKey: 'YOUR_SEARCH_API_KEY',
+          indexName: 'YOUR_INDEX_NAME',
+          contextualSearch: true,
+        },
       }),
     ],
   ],
@@ -83,7 +89,11 @@ const config = {
             docId: 'introduction',
             position: 'left',
             label: 'testing EP 2',
-          }
+          },
+          {
+            type: 'search',
+            position: 'right',
+          },
         ],
       },
       footer: {

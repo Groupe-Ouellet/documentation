@@ -15,7 +15,7 @@
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
 const sidebars = {
-  tutorialSidebar: [
+  mainSidebar: [
     {
       type: 'category',
       label: 'Définitions',
@@ -60,6 +60,22 @@ const sidebars = {
           ],
         },
         'maintenance',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Je suis un employé',
+      items: [
+        'employé/index',
+        {
+          type: 'category',
+          label: 'Formulaires',
+          items: [
+            'employé/formulaires/onboarding',
+            'employé/formulaires/offboarding',
+            'employé/formulaires/embauche',
+          ],
+        },
       ],
     },
   ],
