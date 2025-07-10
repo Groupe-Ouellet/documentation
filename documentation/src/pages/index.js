@@ -16,11 +16,20 @@ function HomepageHeader() {
           Groupe Ouellet
         </Heading>
         <p className="hero__subtitle">Documentation interne et guides pratiques</p>
+        <div className={styles.buttons} style={{ marginBottom: '10px' }}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/employé/commencer">
+            Je suis un employé
+          </Link>
+        </div>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/pages/Accueil">
-            Accéder à la documentation
+            to="/docs/introduction"
+            style={{ paddingLeft: '60px', paddingRight: '60px' }}
+            >
+            Je suis un TI
           </Link>
         </div>
       </div>

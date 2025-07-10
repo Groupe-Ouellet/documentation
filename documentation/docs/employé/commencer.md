@@ -18,6 +18,5 @@ Bienvenue dans la section « Commencer » destinée aux nouveaux employés d
 ## 3. Ressources utiles
 - [Outils par métier](./outil-par-metier) : Découvrez les outils spécifiques à votre poste
 - [Formulaires](./formulaires/onboarding) : Accès rapide aux démarches administratives
-- Contactez le service TI pour toute question technique
 
 > **Important** : N’hésitez pas à poser des questions à votre gestionnaire ou à vos collègues. Toute l’équipe est là pour vous aider à réussir votre intégration !
