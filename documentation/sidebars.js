@@ -57,6 +57,7 @@ const sidebars = {
           items: [
             'flows/onboarding',
             'flows/offboarding',
+            'flows/embauche',
           ],
         },
         'maintenance',

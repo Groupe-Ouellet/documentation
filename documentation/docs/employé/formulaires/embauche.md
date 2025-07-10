@@ -22,9 +22,6 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
    -> [Cliquer ici pour accéder au formulaire d'embauche](https://groupeautoouellet.sharepoint.com/:l:/s/testingEP2/FIeESJlh96tHg-h7mpxPfSgBPkkbu7_cr5E_XfDNQ42ccg?nav=Y2QyNjMzZGYtOTNhZC00YjZmLTk1ZTEtY2FjYThmMmExYmRl)
 
 2. **Remplissez tous les champs requis** (voir la section ci-dessous pour les détails).
-
-3. **Vérifiez qu’aucun message d’erreur n’apparaît dans votre boîte de courriel après la soumission.**
-
 ---
 
 ## Détail des champs à remplir
