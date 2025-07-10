@@ -25,4 +25,4 @@ sidebar_label: "Embauche"
 
 ## Notifications (exemple de courriel généré)
 
-![Exemple d'email d'embauche](/img/email-onboarding.png)
+![Exemple d'email d'embauche](/img/email-embauche.png)
