@@ -7,6 +7,7 @@ sidebar_label: "Formulaire d'Onboarding"
 | Type    | Nom                  | Pourquoi ?                                             |
 | :------ | :------------------- | :----------------------------------------------------- |
 | Texte   | Nom Complet          | Pour qui créer le compte.                              |
+| Texte    | Département           | Département d'affectation de l'employé.                |
 | Texte   | Courriel             | À quel courriel créer le compte.                       |
 | Date    | Date de début        | Quand commence l'employé.                              |
 | Texte   | Copier le compte de  | Sur qui se baser pour les permissions.                 |
