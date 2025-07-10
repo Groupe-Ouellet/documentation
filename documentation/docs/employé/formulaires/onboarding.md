@@ -22,6 +22,7 @@ Préparer l'arrivée d'un nouvel employé dans l’entreprise
 | -------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nom complet**            | Nom complet de l'employé rejoignant l’organisation             | `Jean Tremblay`                                                                                                                             |
 | **Département**             | Département d'affectation de l'employé                                 | `Ventes`                   |
+| **Manager**                | Nom complet du gestionnaire de l'employé                              | `Marie Dupont`                                                                                                                              |
 | **Garage**                 | Nom du garage engageant l'employé                              | `Laval Volkswagen`                                                                                                                          |
 | **Copier le compte de**    | Le courriel d'un employé à un poste identique ou similaire     | `joey.leboeuf@lavalvw.com`                                                                                                                  |
 | **Partenaire TI**          | Nom du partenaire Ti utilisé par le garage                     | `6Temti`                                                                                                                                    |
@@ -29,6 +30,7 @@ Préparer l'arrivée d'un nouvel employé dans l’entreprise
 | **Matériel à insaller**    | Matériel en stock et à préparer pour l'employé                 | `21 janvier 2035`                                                                                                                           |
 | **Matériel à acheter**     | Matériel à acheter et à préparer pour l'employé                | `21 janvier 2035`                                                                                                                           |
 | **Logiciels à configurer** | Logiciels que l'employé aura besoin pour accomplir son travail | `21 janvier 2035`                                                                                                                           |
+| **Besoin d'une extension téléphonique ?** | Cocher 'Oui' si une extension téléphonique est nécessaire, laisser décoché sinon | `Oui` |
 | **Note**                   | Autres choses à mentionner ?                                   | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.` |
 
 ---
