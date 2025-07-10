@@ -3,6 +3,7 @@ sidebar_label: "d'embauche"
 ---
 
 # Formulaire d'embauche
+
 Finaliser l'embauche d'un nouvel employé
 
 ## Pour l'employeur : <br/> envoyer ce formulaire à un nouvel employé
@@ -31,6 +32,7 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
 | **Champ**                    | **Description**                                                             | **Exemple**                 |
 | ---------------------------- | --------------------------------------------------------------------------- | --------------------------- |
 | **Nom**                      | Votre nom pour vous identifiez                                              | `Jean Tremblay`             |
+| **Garage**                   | Garage dans lequel l'employé travaillera                                    | `Laval Volkswagen`          |
 | **Adresse actuelle**         | Votre addresse résidentiel pour l'envoi d'infos officielles (relevé fiscal) | `123 rue Principale, Laval` |
 | **Téléphone**                | Votre numéro de téléphone pour communiquez avec vous                        | `514-123-4567`              |
 | **Date de naissance**        | Utilisée à des fins administratives                                         | `01/01/1990`                |
