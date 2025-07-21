@@ -15,6 +15,7 @@ sidebar_label: "Formulaire d'Offboarding"
 
 > **À noter** : Il y a peu de champs, car offboarding va pomper les données du formulaire d'onboarding
 
-* **Automatisation** : Envoie un courriel au TI et au DG pour préparer le départ, et supprime les items dans les listes onboarding/offboarding. 
+## **Automatisation** : 
+* ### [Envoie un courriel au TI et au DG pour préparer le départ, et supprime les items dans les listes onboarding/offboarding.](/docs/flows/offboarding.md)
 
 ![Exemple d'email d'offboarding](/img/email-offboarding.png) 
