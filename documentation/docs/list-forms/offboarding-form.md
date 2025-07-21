@@ -4,6 +4,8 @@ sidebar_label: "Formulaire d'Offboarding"
 
 # Formulaire d'Offboarding
 
+[Accéder à la liste](https://groupeautoouellet.sharepoint.com/sites/testingEP2/Lists/Offboarding/AllItems.aspx)
+
 | Type    | Nom                  | Pourquoi ?                                                   |
 | :------ | :------------------- | :----------------------------------------------------------- |
 | Texte   | Nom complet          | Pour accéder à la réponse d'onboarding correspondante.       |

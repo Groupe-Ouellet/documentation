@@ -4,6 +4,8 @@ sidebar_label: "Formulaire d'Onboarding"
 
 # Formulaire d'Onboarding
 
+[Accéder à la liste](https://groupeautoouellet.sharepoint.com/sites/testingEP2/Lists/Employee/AllItems.aspx)
+
 | Type    | Nom                  | Pourquoi ?                                             |
 | :------ | :------------------- | :----------------------------------------------------- |
 | Texte   | Nom Complet          | Pour qui créer le compte.                              |
