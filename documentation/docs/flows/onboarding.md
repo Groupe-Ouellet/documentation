@@ -26,4 +26,4 @@ sidebar_label: 'Onboarding'
 
 ## Notifications (exemples de courriels générés)
 
-![Exemple d'email d'onboarding](/img/email-onboarding.png) 
+![Exemple d'email d'onboarding](/img/email-onboarding.png)

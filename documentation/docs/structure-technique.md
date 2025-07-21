@@ -47,4 +47,4 @@ sidebar_label: 'Structure technique'
 ![Exemple d'email d'onboarding](/img/email-onboarding.png)
 
 **Avis de départ (Offboarding) :**
-![Exemple d'email d'offboarding](/img/email-offboarding.png) 
+![Exemple d'email d'offboarding](/img/email-offboarding.png)

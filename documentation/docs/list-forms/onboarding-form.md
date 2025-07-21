@@ -7,7 +7,7 @@ sidebar_label: "Formulaire d'Onboarding"
 | Type    | Nom                  | Pourquoi ?                                             |
 | :------ | :------------------- | :----------------------------------------------------- |
 | Texte   | Nom Complet          | Pour qui créer le compte.                              |
-| Texte    | Département           | Département d'affectation de l'employé.                |
+| Texte   | Département          | Département d'affectation de l'employé.                |
 | Texte   | Manager              | Nom complet du gestionnaire de l'employé.              |
 | Texte   | Courriel             | À quel courriel créer le compte.                       |
 | Date    | Date de début        | Quand commence l'employé.                              |
@@ -21,7 +21,7 @@ sidebar_label: "Formulaire d'Onboarding"
 | Choix   | Besoin d'une extension téléphonique ? | Cocher 'Oui' si une extension téléphonique est nécessaire, laisser décoché sinon. |
 | Texte+  | Note                 | Autres choses importantes à mentionner ?               |
 
-## **Automatisation** : 
-* ### [Envoie un courriel au Partenaire TI et au DG pour préparer ce dont le nouvel employé aura besoin.](/docs/flows/onboarding.md)
+## **Automatisation** :
+* ### [Envoie un courriel au Partenaire TI et au DG pour préparer ce dont le nouvel employé aura besoin.](/docs/flows/onboarding)
 
 ![Exemple d'email d'onboarding](/img/email-onboarding.png) 

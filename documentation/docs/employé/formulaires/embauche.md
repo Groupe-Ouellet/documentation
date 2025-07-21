@@ -28,11 +28,11 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
 
 | **Champ**                    | **Description**                                                             | **Exemple**                 |
 | ---------------------------- | --------------------------------------------------------------------------- | --------------------------- |
-| **Nom**                      | Votre nom pour vous identifiez                                              | `Jean Tremblay`             |
+| **Nom**                      | Votre nom pour vous identifier                                              | `Jean Tremblay`             |
 | **Garage**                   | Garage dans lequel l'employé travaillera                                    | `Laval Volkswagen`          |
-| **Adresse actuelle**         | Votre addresse résidentiel pour l'envoi d'infos officielles (relevé fiscal) | `123 rue Principale, Laval` |
-| **Téléphone**                | Votre numéro de téléphone pour communiquez avec vous                        | `514-123-4567`              |
+| **Adresse actuelle**         | Votre adresse résidentielle pour l'envoi d'infos officielles (relevé fiscal) | `123 rue Principale, Laval` |
+| **Téléphone**                | Votre numéro de téléphone pour communiquer avec vous                        | `514-123-4567`              |
 | **Date de naissance**        | Utilisée à des fins administratives                                         | `01/01/1990`                |
 | **NAS**                      | Numéro d'assurance sociale (besoin légal du Québec)                         | `123 456 789`               |
 | **Spécimen de chèque, etc.** | Requis pour la paie et les impôts (fichiers à joindre)                      | (Fichier à téléverser)      |
-| **Consentement**             | Autorisation d'utilisation de vos données au fin mentionnez ci-dessus       | `Oui`                       |
+| **Consentement**             | Autorisation d'utilisation de vos données aux fins mentionnées ci-dessus    | `Oui`                       |

@@ -26,4 +26,4 @@ sidebar_label: 'Offboarding'
 
 ## Notifications (exemples de courriels générés)
 
-![Exemple d'email d'offboarding](/img/email-offboarding.png) 
+![Exemple d'email d'offboarding](/img/email-offboarding.png)

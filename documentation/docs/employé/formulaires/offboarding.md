@@ -19,10 +19,10 @@ Préparer le départ d'un employé
 
 | **Champ**                         | **Description**                                                                 | **Exemple**                            |
 |-----------------------------------|----------------------------------------------------------------------------------|-----------------------------------------|
-| **Nom complet**              | Nom complet de l'employé quittant l’organisation (le même que donné dans le formulaire d'onboarding)                              | `Jean Tremblay`                         |
+| **Nom complet**              | Nom complet de l'employé quittant l'organisation (le même que celui donné dans le formulaire d'onboarding)                              | `Jean Tremblay`                         |
 | **Date de fin**                         | Date à laquelle l'employé quittera l'entreprise                                                         | `21 juillet 2035`               |
 | **Transfert des données**                | Courriel de la personne à qui les données (fichiers, courriel, etc.) de l'employé seront transférées                                   | `mark.gagnon@groupeouellet.ca`                            |
-| **Est-ce que l'employé a encore un portable ou un cellulaire de travail en sa possession ?** | Préciser si l'employé possède encore un portable ou un cellulaire de travail | `Portable, cellulaire` |
+| **Est-ce que l'employé a encore un portable ou un cellulaire de travail en sa possession ?** | Préciser si l'employé possède encore un ordinateur portable ou un cellulaire de travail | `Portable, cellulaire` |
 | **Doit être complété**           | Est-ce que le retrait des accès doit être effectué dans les plus brefs délais ou peut attendre                                            | `Immédiatement`                          |
 | **Note** | Autres choses à mentionner ?                           | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.`          |
 

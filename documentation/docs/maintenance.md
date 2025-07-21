@@ -11,4 +11,4 @@ Pour que les notifications continuent d'être envoyées aux bonnes personnes, vo
 3. Trouver le nom de votre compagnie dans la colonne ‘Nom de répertoire’.
 4. Aller à la colonne ‘Dg (nom)’ ou ‘contrôleur(nom)’ et modifier le nom.
 5. Aller à la colonne ‘Dg (email)’ ou ‘contrôleur (courriel)’ et modifier le courriel.
-6. Enregistrer et fermer le fichier. Les modifications sont prises en compte immédiatement. 
+6. Enregistrer et fermer le fichier. Les modifications sont prises en compte immédiatement.

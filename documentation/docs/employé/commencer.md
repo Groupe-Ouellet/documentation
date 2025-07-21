@@ -8,7 +8,7 @@ sidebar_label: 'Commencer'
 Bienvenue dans la section « Commencer » destinée aux nouveaux employés du Groupe Ouellet. Elle pourra vous servir de référence tout au long de votre cheminement avec nous !
 
 ## 1. Outils de base à connaître
-- **Ccourriels** : Accès à votre boîte courriel professionnelle
+- **Courriels** : Accès à votre boîte courriel professionnelle
 - **SharePoint** : Plateforme centrale pour les documents et la collaboration
 - **Teams** : Communication et réunions en ligne
 

@@ -3,7 +3,7 @@ sidebar_label: "Embauche"
 ---
 
 # Embauche (Flow)
-*Ce flow répond au besoin de la loi 25 sur la conservation de documents confidentitels* 
+*Ce flow répond au besoin de la loi 25 sur la conservation de documents confidentiels*
 
 ## Déclencheur
 - Quand un formulaire d'embauche est rempli.
@@ -11,15 +11,15 @@ sidebar_label: "Embauche"
 ## Étapes principales
 1. **Initialisation**
    - Créer la variable Jour d'attente.
-2. **Contôleur**
+2. **Contrôleur**
    - Obtenir le courriel du contrôleur.
 3. **Informe**
-   - Envoie un courriel au contrôleur pour l'avertir d'une complétion du formulaire d'embauche
+   - Envoie un courriel au contrôleur pour l'avertir de la complétion du formulaire d'embauche
 4. **Gestion des délais**
-   - Attend deux jour de moins que la valeur d'attente
-   - Averti le contrôleur que les documents seront supprimé dans deux jours
+   - Attend deux jours de moins que la valeur d'attente
+   - Avertit le contrôleur que les documents seront supprimés dans deux jours
    - Attend les deux jours restants
-6. **Suppression**
+5. **Suppression**
    - Supprime les fichiers confidentiels.
 ---
 

@@ -5,4 +5,4 @@ sidebar_label: 'Teams'
 
 # Teams
 
-Explications teams
+Explications Teams
