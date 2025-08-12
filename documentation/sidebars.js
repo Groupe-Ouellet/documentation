@@ -29,7 +29,13 @@ const sidebars = {
       type: 'category',
       label: 'Je suis un TI',
       items: [
-        'Je suis un TI/site-web/index',
+        {
+          type: 'category',
+          label: 'Site web',
+          items: [
+            'Je suis un TI/site-web/catego',
+          ]
+        },
         {
           type: 'category',
           label: 'testing EP',

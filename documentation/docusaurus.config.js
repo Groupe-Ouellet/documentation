@@ -81,7 +81,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Je suis un TI/site-web/index',
+            docId: 'Je suis un TI/testing EP/introduction',
             position: 'left',
             label: 'Je suis un TI',
           },
