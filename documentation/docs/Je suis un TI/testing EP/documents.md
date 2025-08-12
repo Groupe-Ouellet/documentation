@@ -2,26 +2,26 @@
 sidebar_label: 'Documents'
 ---
 
-# Bibliothèque de Documents
+<details>
+<summary><strong>Bibliothèque de Documents</strong></summary>
 
 <details>
 <summary><strong>zzz_Configuration/</strong></summary>
 
 - `DB.xlsx` : Contient les données nécessaires pour faire fonctionner les scripts (ex: courriels des DG).
-- `Documentation.url` : Redirige sur ce site.
+- `Documentation.docx` : Le document original de ce guide.
 
 </details>
 
 <details>
-<summary><strong>zzz_Configuration/Email templates/</strong></summary>
+<summary><strong>Email templates/</strong></summary>
 
-- `onboarding.html`, `offboarding.html`, `erreur.html` et autres.
+- `onboarding.html`, `offboarding.html`, `erreur.html`.
+
+</details>
+
+
 
 </details>
 
-<details>
-<summary><strong>zzz_Configuration/Flows/</strong></summary>
-
-- Dossier contenant les flows exportés (`.zip`) pour sauvegarde. <em>(non existant pour le moment)</em>
-
-</details>
+---

@@ -33,7 +33,17 @@ const sidebars = {
           type: 'category',
           label: 'Site web',
           items: [
-            'Je suis un TI/site-web/catego',
+            {
+              type: 'category',
+              label: 'CatéGO',
+              items: [
+                'Je suis un TI/site-web/catego/intro',
+                'Je suis un TI/site-web/catego/installation',
+                'Je suis un TI/site-web/catego/api',
+                'Je suis un TI/site-web/catego/db',
+                'Je suis un TI/site-web/catego/architecture',
+              ]
+            }
           ]
         },
         {
