@@ -5,10 +5,16 @@ sidebar_label: "Embauche"
 # Embauche (Flow)
 *Ce flow répond au besoin de la loi 25 sur la conservation de documents confidentiels*
 
-## Déclencheur
+<details>
+<summary><strong>Déclencheur</strong></summary>
+
 - Quand un formulaire d'embauche est rempli.
 
-## Étapes principales
+</details>
+
+<details>
+<summary><strong>Étapes principales</strong></summary>
+
 1. **Initialisation**
    - Créer la variable Jour d'attente.
 2. **Contrôleur**
@@ -21,8 +27,18 @@ sidebar_label: "Embauche"
    - Attend les deux jours restants
 5. **Suppression**
    - Supprime les fichiers confidentiels.
+
+</details>
 ---
 
-## Notifications (exemple de courriel généré)
+<details>
+<summary><strong>Notifications (exemple de courriel généré)</strong></summary>
+
+<details>
+<summary><strong>Voir l'exemple de courriel</strong></summary>
 
 ![Exemple d'email d'embauche](/img/email-embauche.png)
+
+</details>
+
+</details>

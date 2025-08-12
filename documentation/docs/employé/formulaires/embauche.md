@@ -16,15 +16,19 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
 
 ## Pour le nouvel employé
 
-## Étapes à suivre
+<details>
+<summary><strong>Étapes à suivre</strong></summary>
 
 1. **Accédez au formulaire :**  
    -> [Cliquer ici pour accéder au formulaire d'embauche](https://groupeautoouellet.sharepoint.com/:l:/s/testingEP2/FIeESJlh96tHg-h7mpxPfSgBPkkbu7_cr5E_XfDNQ42ccg?nav=Y2QyNjMzZGYtOTNhZC00YjZmLTk1ZTEtY2FjYThmMmExYmRl)
 
 2. **Remplissez tous les champs requis** (voir la section ci-dessous pour les détails).
+
+</details>
 ---
 
-## Détail des champs à remplir
+<details>
+<summary><strong>Détail des champs à remplir</strong></summary>
 
 | **Champ**                    | **Description**                                                             | **Exemple**                 |
 | ---------------------------- | --------------------------------------------------------------------------- | --------------------------- |
@@ -36,3 +40,5 @@ Si vous souhaitez transmettre ce formulaire à un nouvel employé, cliquez sur l
 | **NAS**                      | Numéro d'assurance sociale (besoin légal du Québec)                         | `123 456 789`               |
 | **Spécimen de chèque, etc.** | Requis pour la paie et les impôts (fichiers à joindre)                      | (Fichier à téléverser)      |
 | **Consentement**             | Autorisation d'utilisation de vos données aux fins mentionnées ci-dessus    | `Oui`                       |
+
+</details>

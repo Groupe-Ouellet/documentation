@@ -23,7 +23,16 @@ sidebar_label: "Formulaire d'Onboarding"
 | Choix   | Besoin d'une extension téléphonique ? | Cocher 'Oui' si une extension téléphonique est nécessaire, laisser décoché sinon. |
 | Texte+  | Note                 | Autres choses importantes à mentionner ?               |
 
-## **Automatisation** :
-* ### [Envoie un courriel au Partenaire TI et au DG pour préparer ce dont le nouvel employé aura besoin.](/docs/flows/onboarding)
+<details>
+<summary><strong>Automatisation</strong></summary>
 
-![Exemple d'email d'onboarding](/img/email-onboarding.png) 
+### [Envoie un courriel au Partenaire TI et au DG pour préparer ce dont le nouvel employé aura besoin.](/docs/flows/onboarding)
+
+<details>
+<summary><strong>Voir l'exemple de courriel</strong></summary>
+
+![Exemple d'email d'onboarding](/img/email-onboarding.png)
+
+</details>
+
+</details>

@@ -4,7 +4,12 @@ sidebar_label: "Accueil"
 
 # La Page d'Accueil SharePoint
 
+<details>
+<summary><strong>Voir l'image</strong></summary>
+
 ![](/img/sharepoint-accueil-no-annotation.png)
+
+</details>
 
 Notre SharePoint contient une seule page principale qui donne un accès centralisé à plusieurs ressources essentielles :
 

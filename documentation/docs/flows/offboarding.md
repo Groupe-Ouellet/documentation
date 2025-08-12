@@ -4,10 +4,16 @@ sidebar_label: 'Offboarding'
 
 # Offboarding (Flow)
 
-## Déclencheur
+<details>
+<summary><strong>Déclencheur</strong></summary>
+
 - Quand un formulaire d'offboarding est rempli.
 
-## Étapes principales
+</details>
+
+<details>
+<summary><strong>Étapes principales</strong></summary>
+
 1. **Initialisation**
    - Créer des variables pour le matériel, les logiciels et l'ID de l'employé.
 2. **Recherche d'informations**
@@ -22,8 +28,18 @@ sidebar_label: 'Offboarding'
 6. **Gestion des erreurs**
    - En cas d'erreur, envoyer un avis au créateur de la requête.
 
+</details>
+
 ---
 
-## Notifications (exemples de courriels générés)
+<details>
+<summary><strong>Notifications (exemples de courriels générés)</strong></summary>
+
+<details>
+<summary><strong>Voir l'exemple de courriel</strong></summary>
 
 ![Exemple d'email d'offboarding](/img/email-offboarding.png)
+
+</details>
+
+</details>

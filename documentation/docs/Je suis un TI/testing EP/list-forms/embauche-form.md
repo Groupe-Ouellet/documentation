@@ -17,5 +17,9 @@ sidebar_label: "Formulaire d'Embauche"
 | Nombre   | NAS                  | Besoin légal du Québec.                                     |
 | Fichiers | Spécimen de chèque, etc. | Requis pour la paie et les impôts (Besoins légaux).         |
 
-## **Automatisation** :
-* ### [Suppression des fichiers confidentiels après 14 jours suivant la demande.](/docs/flows/embauche)
+<details>
+<summary><strong>Automatisation</strong></summary>
+
+### [Suppression des fichiers confidentiels après 14 jours suivant la demande.](/docs/flows/embauche)
+
+</details>

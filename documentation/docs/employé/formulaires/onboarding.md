@@ -5,7 +5,8 @@ sidebar_label: "d'onboarding"
 # Formulaire d'onboarding
 Préparer l'arrivée d'un nouvel employé dans l’entreprise
 
-## Étapes à suivre
+<details>
+<summary><strong>Étapes à suivre</strong></summary>
 
 1. **Accédez au formulaire :**  
    -> [Cliquer ici pour accéder au formulaire d'onboarding](https://groupeautoouellet.sharepoint.com/sites/testingEP2/_layouts/15/listforms.aspx?cid=ZWYwZGNiM2EtZjkyZS00ZDQwLWI1OGQtMGQ5MmE0ODFlMzRi&nav=NzZhNGFmZjItYjU5YS00MDcxLWI3MDMtYzk3MGIyMmVkOTBj)
@@ -14,9 +15,12 @@ Préparer l'arrivée d'un nouvel employé dans l’entreprise
 
 3. **Vérifiez qu’aucun message d’erreur n’apparaît dans votre boîte de courriel après la soumission.**
 
+</details>
+
 ---
 
-## Détail des champs à remplir
+<details>
+<summary><strong>Détail des champs à remplir</strong></summary>
 
 | **Champ**                  | **Description**                                                | **Exemple**                                                                                                                                 |
 | -------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +37,12 @@ Préparer l'arrivée d'un nouvel employé dans l’entreprise
 | **Besoin d'une extension téléphonique ?** | Cocher 'Oui' si une extension téléphonique est nécessaire, laisser décoché sinon | `Oui` |
 | **Note**                   | Autres choses à mentionner ?                                   | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.` |
 
+</details>
+
 ---
+
+<details>
+<summary><strong>Aide en cas d'erreur</strong></summary>
 
 <div style={{ border: '2px solid red', padding: '1em', borderRadius: '5px' }}>
   <span style={{ color: 'red' }}>
@@ -49,6 +58,8 @@ Préparer l'arrivée d'un nouvel employé dans l’entreprise
   <p>
     <strong>Si l’erreur persiste</strong>, veuillez contacter le <strong>directeur TI</strong> pour assistance.
   </p>
-</div>
+ </div>
+
+</details>
 
 ---

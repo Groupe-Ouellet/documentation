@@ -2,7 +2,8 @@
 sidebar_label: 'Maintenance'
 ---
 
-### Lors du départ d'un DG ou d'un contrôleur
+<details>
+<summary><strong>Lors du départ d'un DG ou d'un contrôleur</strong></summary>
 
 Pour que les notifications continuent d'être envoyées aux bonnes personnes, vous devez mettre à jour le fichier de configuration.
 
@@ -12,3 +13,5 @@ Pour que les notifications continuent d'être envoyées aux bonnes personnes, vo
 4. Aller à la colonne ‘Dg (nom)’ ou ‘contrôleur(nom)’ et modifier le nom.
 5. Aller à la colonne ‘Dg (email)’ ou ‘contrôleur (courriel)’ et modifier le courriel.
 6. Enregistrer et fermer le fichier. Les modifications sont prises en compte immédiatement.
+
+</details>

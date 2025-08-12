@@ -4,7 +4,8 @@ sidebar_label: "d'offboarding"
 
 # Formulaire d’offboarding
 Préparer le départ d'un employé
-## Étapes à suivre
+<details>
+<summary><strong>Étapes à suivre</strong></summary>
 
 1. **Accédez au formulaire :**  
    -> [Cliquer ici pour accéder au formulaire d'offboarding](https://groupeautoouellet.sharepoint.com/sites/testingEP2/_layouts/15/listforms.aspx?cid=NzJjOGY3NjAtNDNjZi00NWY1LWFkODgtNjRkNGU1YTU1YmEz&nav=YjEyNDE0ZTctZTQ1My00NGQ5LWEyZjQtZDc1ODhiOGZhNWY3)
@@ -13,9 +14,12 @@ Préparer le départ d'un employé
 
 3. **Vérifiez qu’aucun message d’erreur n’apparaît dans votre boîte de courriel après la soumission.**
 
+</details>
+
 ---
 
-## Détail des champs à remplir
+<details>
+<summary><strong>Détail des champs à remplir</strong></summary>
 
 | **Champ**                         | **Description**                                                                 | **Exemple**                            |
 |-----------------------------------|----------------------------------------------------------------------------------|-----------------------------------------|
@@ -26,7 +30,12 @@ Préparer le départ d'un employé
 | **Doit être complété**           | Est-ce que le retrait des accès doit être effectué dans les plus brefs délais ou peut attendre                                            | `Immédiatement`                          |
 | **Note** | Autres choses à mentionner ?                           | `Le logiciel Certi a été ajouté en cours de route, même s’il ne figurait pas dans le formulaire d’onboarding initial. Merci de le retirer.`          |
 
+</details>
+
 ---
+
+<details>
+<summary><strong>Aide en cas d'erreur</strong></summary>
 
 <div style={{ border: '2px solid red', padding: '1em', borderRadius: '5px' }}>
   <span style={{ color: 'red' }}>
@@ -42,7 +51,9 @@ Préparer le départ d'un employé
   <p>
     <strong>Si l’erreur persiste</strong>, veuillez contacter le <strong>directeur TI</strong> pour assistance.
   </p>
-</div>
+ </div>
+
+</details>
 
 
 ---
