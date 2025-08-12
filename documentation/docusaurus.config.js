@@ -80,8 +80,7 @@ const config = {
             label: 'Définitions',
           },
           {
-            type: 'doc',
-            docId: 'Je suis un TI/testing EP/introduction',
+            to: '/docs/Je suis un TI/testing EP/introduction',
             position: 'left',
             label: 'Je suis un TI',
           },

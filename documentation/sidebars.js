@@ -95,7 +95,7 @@ const sidebars = {
           type: 'category',
           label: "Site web",
           items: [
-            'employé/site-web/catego',
+            'employé/site-web/catego/intro',
           ]
         },
         {
