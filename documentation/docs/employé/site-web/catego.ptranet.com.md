@@ -1,7 +1,18 @@
 ---
-sidebar_label: 'catego.ptranet.com'
+sidebar_label: 'CatéGO'
 ---
 
-#CatéGO
+# CatéGO
 
-# 
+<details>
+ <summary>Utilité</summary>
+
+    ## Utilité
+
+</details>
+
+<details>
+ <summary>Fonctionnement</summary>
+ ## Fonctionnement
+
+</details>

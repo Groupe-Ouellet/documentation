@@ -3,26 +3,69 @@ sidebar_label: 'Power Automate'
 ---
 
 # Power Automate
+> **Quick :** Power Automate permet d'automatiser les processus répétitifs et de connecter différentes applications.
 
-> **Astuce :** Power Automate permet d'automatiser les processus répétitifs et de connecter différentes applications.
+<details>
+<summary><strong>Qu'est-ce que Power Automate ?</strong></summary>
 
-## Qu'est-ce que Power Automate ?
 Power Automate est un service d'automatisation de flux de travail ("Flows") qui facilite la connexion entre différentes applications (SharePoint, Outlook, etc.) et l'automatisation de tâches.
 
-## Types de Flows
-- **Automated cloud flow** : S'exécute automatiquement lorsqu'un événement spécifique se produit (ex : soumission d'un formulaire)
-- **Instant cloud flow** : S'exécute manuellement (ex : clic sur un bouton)
-- **Scheduled cloud flow** : S'exécute à intervalle régulier (ex : tous les lundis à 9h)
+</details>
 
-## Comment fonctionne un Flow ?
-1. **Choisir un connecteur** (ex : SharePoint)
+<details>
+<summary><strong>Types de Flows</strong></summary>
 
-   ![Choix du connecteur SharePoint](/img/pa-connecteur.png)
-2. **Sélectionner une action** (ex : "Créer un item", "Obtenir un fichier")
+<details>
+<summary><strong>Automated cloud flow</strong></summary>
 
-   ![Choix des actions SharePoint](/img/pa-actions.png)
-3. **Construire la logique d'automatisation**
+S'exécute automatiquement lorsqu'un événement spécifique se produit (ex : soumission d'un formulaire)
 
-   ![Logique d'un Flow](/img/pa-flow-logique.png)
+</details>
+
+<details>
+<summary><strong>Instant cloud flow</strong></summary>
+
+S'exécute manuellement (ex : clic sur un bouton)
+
+</details>
+
+<details>
+<summary><strong>Scheduled cloud flow</strong></summary>
+
+S'exécute à intervalle régulier (ex : tous les lundis à 9h)
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Comment fonctionne un Flow ?</strong></summary>
+
+<details>
+<summary><strong>1. Choisir un connecteur</strong></summary>
+
+(ex : SharePoint)
+
+![Choix du connecteur SharePoint](/img/pa-connecteur.png)
+
+</details>
+
+<details>
+<summary><strong>2. Sélectionner une action</strong></summary>
+
+(ex : "Créer un item", "Obtenir un fichier")
+
+![Choix des actions SharePoint](/img/pa-actions.png)
+
+</details>
+
+<details>
+<summary><strong>3. Construire la logique d'automatisation</strong></summary>
+
+![Logique d'un Flow](/img/pa-flow-logique.png)
+
+</details>
+
+</details>
 
 > **Bon à savoir :** Un Flow est à Power Automate ce qu'un document .docx est à Word : un fichier d'automatisation. 
